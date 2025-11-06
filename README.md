@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alphamyles
 - 👀 I’m interested in IT Security/Cyber Security
 - 🌱 I’m currently learning Enterprise and IT Security 
-- 💞️ I’m looking to collaborate on multiple projects with Python as the go to language regarding cyber security projects
+- 💞️ I’m looking to collaborate on multiple projects with JAVA as the go to language regarding cyber security projects
 - 📫 How to reach me @ alphamyles on Github
 
 <!---
